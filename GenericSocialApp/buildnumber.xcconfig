@@ -1,0 +1,9 @@
+//
+//  buildnumber.xcconfig
+//  PeggSite
+//
+//  Created by Victor Belenko  on 3/16/14.
+//  Copyright (c) 2014 Victor Belenko . All rights reserved.
+//
+
+BUILD_NUMBER = 1
